@@ -37,14 +37,13 @@ LANGUAGES AND TOOLS:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <a href="https://github.com/Jemeelah1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jemeelah1&theme=noctis_minimus&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jemeelah1&theme=noctis_minimus&layout=compact" />
+  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=Jemeelah1&theme=noctis_minimus&show_icons=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Jemeelah1&layout=compact&theme=radical)](https://github.com/Jemeelah1/github-readme-stats)" />
+  <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Jemeelah1&theme=noctis_minimus&layout=compact](https://github-readme-stats.vercel.app/api?username=Jemeelah1&show_icons=true&theme=radical)" />
 </a>
 
 ![Snake animation](https://github.com/Jemeelah1/Jemeelah1/blob/output/github-contribution-grid-snake.svg)
