@@ -70,3 +70,7 @@ hobbies: ["Gaming", "Cinema", "Movies", "Art", "Comedy"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
+
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
