@@ -11,10 +11,18 @@ Languages and Tools:
           
 c css3 git html5 javascript linux python react
 
-
-![68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4e77616275657a654672616e6b6c696e266c61796f75743d636f6d70616374267468656d653d6461726b26686964655f626f726465723d6661](https://user-images.githubusercontent.com/83028679/190484241-ae5ec8d6-8a33-4193-88c5-3f768bcecbe3.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jemeelah1&layout=compact)](https://github.com/Jemeelah1/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jemeelah1)](https://github.com/Jemeelah1/github-readme-stats)
+
+![Jemeelah1 GitHub stats](https://github-readme-stats.vercel.app/api?username=Jemeelah1&show_icons=true&theme=radical)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jemeelah1&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/Jemeelah1/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jemeelah1&repo=convoychat" />
+</a>
 <!---
 Jemeelah1/Jemeelah1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
