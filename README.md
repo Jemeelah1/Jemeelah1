@@ -10,9 +10,9 @@
 <a href="https://www.linkedin.com/in/jemila-ibrahim-dotto/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
-<a href="https://dev.to/Jemeelah1">
+<!-- <a href="https://dev.to/Jemeelah1">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
-</a>
+</a> -->
 <a href="https://twitter.com/Jemeelah_1">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
 </a>
@@ -34,7 +34,7 @@ education:
     "ALX Horboton Program",
     "Bachelor's in Environmental Science and Education",
   ]
-company: ALAT by Wema
+company: ALAT
 
 fields_of_interests:
   [
@@ -43,7 +43,7 @@ fields_of_interests:
   ]
 technical_background:
   [
-    "Executive Trainee - ALAT By Wema",
+    "Executive Trainee - ALAT",
     "Intern - Internet Of Things",
   ]
   
