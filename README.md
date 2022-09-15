@@ -21,6 +21,43 @@
 </a>
 </p>
 
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+
+```yaml
+name: Piyush Malhotra
+located_in: Montreal, Quebec
+current_job: Full Stack Developer
+education:
+  [
+    "Self-Taught Developer and Designer",
+    "Master's in Electrical and Computer Engineering",
+    "Bachelor's in Electronics and Communication",
+  ]
+company: Soulber
+
+fields_of_interests:
+  [
+    "Web Development",
+    "Data Science",
+    "Machine Learning",
+    "UI/UX",
+    "Game Development",
+    "DevOps",
+  ]
+technical_background:
+  [
+    "DevOps Solutions Architect",
+    "Intern - Data Science & Machine Learning in Python",
+    "Intern - Internet Of Things",
+    "Intern - VLSI and FPGA Implementation",
+  ]
+  
+currently_learning: ["Docker, Kubernetes and React Native"]
+2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
+hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+```  
+---  
+
 - 👋 Hi, I’m @Jemeelah1
 - 🔭 I’m currently working on Frontend Development
 - 👀 I’m interested in Software Engineering 
@@ -32,8 +69,8 @@
 ![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313035393538332f73637265656e73686f74732f343137313336372f6d656469612f35633832363461323062323437313135623638653663326634633937643565362e676966](https://user-images.githubusercontent.com/83028679/190483160-f9136063-693e-42e6-a104-88e12e56306d.gif)
           
 <h2> 📈 &nbsp;My GitHub History!</h2>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jemeelah1&layout=compact&theme=radical)](https://github.com/Jemeelah1/github-readme-stats)
+
 ![Jemeelah1 GitHub stats](https://github-readme-stats.vercel.app/api?username=Jemeelah1&show_icons=true&theme=radical)
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
@@ -49,9 +86,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
-
-<!-- <h2> 📈 &nbsp;My GitHub History!</h2>
-<a href="https://github.com/Jemeelah1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jemeelah1&layout=compact&theme=radical)](https://github.com/Jemeelah1/github-readme-stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jemeelah1&show_icons=true&theme=radical" />
-</a> -->
