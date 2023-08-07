@@ -27,9 +27,10 @@ current_job: Frontend Developer
 education:
   [
     "Self-Taught Developer",
+    "HerTechTrial Cohort 6",
     "Women Techsters Program",
     "ALX Horboton Program",
-    "Bachelor's in Environmental Science and Education",
+    "Purple Academy (Wema Bank)",
   ]
 company: ALAT
 
@@ -42,6 +43,7 @@ technical_background:
   [
     "Executive Trainee - ALAT",
     "Intern - Internet Of Things",
+    "User Research",
   ]
   
 currently_learning: ["C and Python"]
