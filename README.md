@@ -41,7 +41,7 @@ fields_of_interests:
   ]
 technical_background:
   [
-    "Executive Trainee - ALAT",
+    "Software Developer - ALAT",
     "Intern - Internet Of Things",
     "User Research",
   ]
