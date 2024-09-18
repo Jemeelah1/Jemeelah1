@@ -23,7 +23,7 @@
 ```yaml
 name: Ibrahim D. Jemila
 located_in: Lagos, Nigeria
-current_job: Frontend Developer
+current_job: Application Developer
 education:
   [
     "Self-Taught Developer",
@@ -31,16 +31,19 @@ education:
     "Women Techsters Program",
     "ALX Horboton Program",
     "Purple Academy (Wema Bank)",
+    "GameUp Africa (Maliyo Game)",
   ]
 company: ALAT
 
 fields_of_interests:
   [
+    "Game Development",
     "Web Development",
     "UI/UX",
   ]
 technical_background:
   [
+    "Game Development - GameUp Africa",
     "Software Developer - ALAT",
     "Intern - Internet Of Things",
     "User Research",
