@@ -22,22 +22,11 @@
 
 ```yaml
 name: Ibrahim D. Jemila
-* 💼 **Current Role:** Web / Application Developer
-* 📍 Based in **Lagos, Nigeria**
-* 🚀 Focus: **Front-End Development & Web Architecture**
-* 🛠️ Tech Stack: **React, Next.js, TypeScript, Redux, Tailwind CSS, Material UI**
-* 🎯 Current Focus: **Performance Optimization & Developer Experience**
-
-### 🌟 Featured Projects
-
-| Project | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **[StudyBuddy AI](https://github.com/Jemeelah1/StudyBuddy-AI)** | AI-powered learning companion designed to assist students with study workflows, built with Google AI Studio. | `Google AI Studio` `JavaScript` `React` | [Live Demo](https://agent-6a8316f2bf02e5f9--hilarious-axolotl-1a74ea.netlify.app/) \| [Code](https://github.com/Jemeelah1/StudyBuddy-AI) |
-| **[Credit Risk Assessment System](https://github.com/Jemeelah1/Credit-Risk_Assessment_System)** | Machine learning web app for digital banks to evaluate and track credit risk parameters for loan applicants. | `Python` `Streamlit` `Machine Learning` | [Live Demo](https://credit-risk-assessments-system.streamlit.app/) \| [Code](https://github.com/Jemeelah1/Credit-Risk_Assessment_System) |
-| **[CoinCoach](https://github.com/Jemeelah1/CoinCoach)** | Interactive educational platform teaching cryptocurrency fundamentals and financial literacy. | `React` `JavaScript` `CSS` | [Live Demo](https://coin-coach.netlify.app) \| [Code](https://github.com/Jemeelah1/CoinCoach) |
-| **[Board Of Task](https://github.com/Jemeelah1/BoardOfTask)** | Trello-inspired kanban board application for dynamic task management and workflow organization. | `React` `JavaScript` `Tailwind CSS` | [Live Demo](https://board-of-task-oy192fo8t-jemeelah1s-projects.vercel.app/) \| [Code](https://github.com/Jemeelah1/BoardOfTask) |
-
-education:
+💼 Current Role: Web / Application Developer
+📍 Location: Lagos, Nigeria
+🚀 Core Focus: Building high-performance web applications & modern front-end interfaces
+🛠️ **Tech Stack:** React, NextJS, TypeScript, Redux, Tailwind CSS, Material UI
+🎓 education:
   [
     "Self-Taught Developer",
     "HerTechTrial Cohort 6",
@@ -65,7 +54,8 @@ technical_background:
 currently_learning: ["C and Python"]
 2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
 hobbies: ["Gaming", "Cinema", "Movies", "Art", "Comedy"]
-```  
+```
+ProjectDescriptionTech StackLinksStudyBuddy AIAI-powered learning companion designed to assist students with study workflows, built with Google AI Studio.Google AI Studio JavaScript ReactLive Demo | CodeCredit Risk Assessment SystemMachine learning web app for digital banks to evaluate and track credit risk parameters for loan applicants.Python Streamlit Machine LearningLive Demo | CodeCoinCoachInteractive educational platform teaching cryptocurrency fundamentals and financial literacy.React JavaScript CSSLive Demo | CodeBoard Of TaskTrello-inspired kanban board application for dynamic task management and workflow organization.React JavaScript Tailwind CSSLive Demo | Code
 ---  
 
 
