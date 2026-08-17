@@ -21,11 +21,11 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Ibrahim D. Jemila
+👨🏻‍💻 Name: Ibrahim D. Jemila
 💼 Current Role: Web / Application Developer
 📍 Location: Lagos, Nigeria
 🚀 Core Focus: Building high-performance web applications & modern front-end interfaces
-🛠️ **Tech Stack:** React, NextJS, TypeScript, Redux, Tailwind CSS, Material UI
+🛠️ Tech Stack: React, NextJS, TypeScript, Redux, Tailwind CSS, Material UI, ReactNative
 🎓 education:
   [
     "Self-Taught Developer",
@@ -51,9 +51,25 @@ technical_background:
     "User Research",
   ]
   
-currently_learning: ["C and Python"]
-2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Movies", "Art", "Comedy"]
+📚 currently_learning: ["C", "Python", "Machine Learning", "AI"]
+🎯 2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
+
+🚀 2026 Goals:
+
+  [
+
+    "Complete my Professional Master's in Information Technology",
+
+    "Build and deploy AI-powered applications",
+
+    "Strengthen my Machine Learning and Python skills",
+
+    "Contribute to open-source projects",
+
+    "Build impactful products that solve real-world problems"
+
+  ]
+🎮 hobbies: ["Gaming", "Cinema", "Movies", "Art", "Comedy"]
 ```
 ----
 
