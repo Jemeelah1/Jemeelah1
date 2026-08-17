@@ -22,14 +22,17 @@
 
 ```yaml
 name: Ibrahim D. Jemila
-located_in: Lagos, Nigeria
-current_job: Application Developer
+* 💼 **Current Role:** Web / Application Developer
+* 📍 Based in **Lagos, Nigeria**
+* 🚀 Focus: **Front-End Development & Web Architecture**
+* 🛠️ Tech Stack: **React, Next.js, TypeScript, Redux, Tailwind CSS, Material UI**
+* 🎯 Current Focus: **Performance Optimization & Developer Experience**
 education:
   [
     "Self-Taught Developer",
     "HerTechTrial Cohort 6",
     "Women Techsters Program",
-    "ALX Horboton Program",
+    "ALX Holberton Program",
     "Purple Academy (Wema Bank)",
     "GameUp Africa (Maliyo Game)",
   ]
