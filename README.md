@@ -22,11 +22,9 @@
 
 ```yaml
 name: Ibrahim D. Jemila
-💼 Current Role: Web / Application Developer
-📍 Location: Lagos, Nigeria
-🚀 Core Focus: Building high-performance web applications & modern front-end interfaces
-🛠️ **Tech Stack:** React, NextJS, TypeScript, Redux, Tailwind CSS, Material UI
-🎓 education:
+located_in: Lagos, Nigeria
+current_job: Application Developer
+education:
   [
     "Self-Taught Developer",
     "HerTechTrial Cohort 6",
@@ -54,10 +52,8 @@ technical_background:
 currently_learning: ["C and Python"]
 2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
 hobbies: ["Gaming", "Cinema", "Movies", "Art", "Comedy"]
-```
-ProjectDescriptionTech StackLinksStudyBuddy AIAI-powered learning companion designed to assist students with study workflows, built with Google AI Studio.Google AI Studio JavaScript ReactLive Demo | CodeCredit Risk Assessment SystemMachine learning web app for digital banks to evaluate and track credit risk parameters for loan applicants.Python Streamlit Machine LearningLive Demo | CodeCoinCoachInteractive educational platform teaching cryptocurrency fundamentals and financial literacy.React JavaScript CSSLive Demo | CodeBoard Of TaskTrello-inspired kanban board application for dynamic task management and workflow organization.React JavaScript Tailwind CSSLive Demo | Code
----  
 
+---  
 
 ![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313035393538332f73637265656e73686f74732f343137313336372f6d656469612f35633832363461323062323437313135623638653663326634633937643565362e676966](https://user-images.githubusercontent.com/83028679/190483160-f9136063-693e-42e6-a104-88e12e56306d.gif)
           
@@ -75,7 +71,7 @@ ProjectDescriptionTech StackLinksStudyBuddy AIAI-powered learning companion desi
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>        
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="45" height="45"/>
