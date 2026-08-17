@@ -22,9 +22,11 @@
 
 ```yaml
 name: Ibrahim D. Jemila
-located_in: Lagos, Nigeria
-current_job: Application Developer
-education:
+💼 Current Role: Web / Application Developer
+📍 Location: Lagos, Nigeria
+🚀 Core Focus: Building high-performance web applications & modern front-end interfaces
+🛠️ **Tech Stack:** React, NextJS, TypeScript, Redux, Tailwind CSS, Material UI
+🎓 education:
   [
     "Self-Taught Developer",
     "HerTechTrial Cohort 6",
@@ -52,8 +54,17 @@ technical_background:
 currently_learning: ["C and Python"]
 2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
 hobbies: ["Gaming", "Cinema", "Movies", "Art", "Comedy"]
+```
 
----  
+<h2> 🌟 &nbsp;Featured Projects</h2>
+
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **[StudyBuddy AI](https://github.com/Jemeelah1/StudyBuddy-AI)** | AI-powered learning companion designed to assist students with study workflows, built with Google AI Studio. | `Google AI Studio` `JavaScript` `React` | [Live Demo](https://agent-6a8316f2bf02e5f9--hilarious-axolotl-1a74ea.netlify.app/) \| [Code](https://github.com/Jemeelah1/StudyBuddy-AI) |
+| **[Credit Risk Assessment System](https://github.com/Jemeelah1/Credit-Risk_Assessment_System)** | Machine learning web app for digital banks to evaluate and track credit risk parameters for loan applicants. | `Python` `Streamlit` `Machine Learning` | [Live Demo](https://credit-risk-assessments-system.streamlit.app/) \| [Code](https://github.com/Jemeelah1/Credit-Risk_Assessment_System) |
+| **[CoinCoach](https://github.com/Jemeelah1/CoinCoach)** | Interactive educational platform teaching cryptocurrency fundamentals and financial literacy. | `React` `JavaScript` `CSS` | [Live Demo](https://coin-coach.netlify.app) \| [Code](https://github.com/Jemeelah1/CoinCoach) |
+| **[Board Of Task](https://github.com/Jemeelah1/BoardOfTask)** | Trello-inspired kanban board application for dynamic task management and workflow organization. | `React` `JavaScript` `Tailwind CSS` | [Live Demo](https://board-of-task-oy192fo8t-jemeelah1s-projects.vercel.app/) \| [Code](https://github.com/Jemeelah1/BoardOfTask) |
+
 
 ![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313035393538332f73637265656e73686f74732f343137313336372f6d656469612f35633832363461323062323437313135623638653663326634633937643565362e676966](https://user-images.githubusercontent.com/83028679/190483160-f9136063-693e-42e6-a104-88e12e56306d.gif)
           
@@ -71,7 +82,7 @@ hobbies: ["Gaming", "Cinema", "Movies", "Art", "Comedy"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>        
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="45" height="45"/>
@@ -80,3 +91,5 @@ hobbies: ["Gaming", "Cinema", "Movies", "Art", "Comedy"]
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
+
