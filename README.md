@@ -55,6 +55,7 @@ currently_learning: ["C and Python"]
 2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
 hobbies: ["Gaming", "Cinema", "Movies", "Art", "Comedy"]
 ```
+----
 
 <h2> 🌟 &nbsp;Featured Projects</h2>
 
