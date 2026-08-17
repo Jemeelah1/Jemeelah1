@@ -53,21 +53,13 @@ technical_background:
   
 📚 currently_learning: ["C", "Python", "Machine Learning", "AI"]
 🎯 2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
-
 🚀 2026 Goals:
-
   [
-
     "Complete my Professional Master's in Information Technology",
-
     "Build and deploy AI-powered applications",
-
     "Strengthen my Machine Learning and Python skills",
-
     "Contribute to open-source projects",
-
     "Build impactful products that solve real-world problems"
-
   ]
 🎮 hobbies: ["Gaming", "Cinema", "Movies", "Art", "Comedy"]
 ```
